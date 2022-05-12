@@ -6,24 +6,24 @@
 
 This will be a great reference tool for you during the 2022 HTB CTF Cyber Apocalypse to determine what boxes might need what skills. You can log any progress you found while attempting to complete a Machine / Challenge.
 
-| Status | Name | Type | Description | Notes |
-| ------ | ---- | ---- | ----------- | ----- |
-| [ ]    |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
-|        |      |      |             |       |
+| Status | Name    | Type | Description | Note       |
+| ------ | ------- | ---- | ----------- | ---------- |
+| - [ ]  | Example | PWN  | Unknown     | View Notes |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
+| - [ ]  |         |      |             |            |
