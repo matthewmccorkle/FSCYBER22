@@ -8,7 +8,7 @@ This will be a great reference tool for you during the 2022 HTB CTF Cyber Apocal
 
 | Status | Name    | Type | Description | Note       |
 | ------ | ------- | ---- | ----------- | ---------- |
-| - [ ]  | Example | PWN  | Unknown     | View Notes |
+| - [X]  | Example | PWN  | Unknown     | View Notes |
 | - [ ]  |         |      |             |            |
 | - [ ]  |         |      |             |            |
 | - [ ]  |         |      |             |            |
